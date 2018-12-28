@@ -280,3 +280,4 @@ sort(a, a+n); // สมมติใช้ zero-based index ละกัน
  - https://www.quora.com/What-is-an-operator-function-Is-the-operator-function-and-operator-overloading-the-same
  - https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.cbclx01/cplr318.htm
  - https://www.programiz.com/cpp-programming/operator-overloading
+ - https://www.geeksforgeeks.org/sorting-algorithms/
