@@ -1,2 +1,3 @@
 # the-article
-The Article of Computer Science
+
+นี่คือบทความต่าง ๆ เกี่ยวกับความรู้ในทาง computer science ส่วนใหญ่จะเน้นไปทางภาษาคอมพิวเตอร์และอัลกอริทึม
